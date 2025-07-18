@@ -45,3 +45,19 @@ It focuses on:
    ```bash
    pip install pandas numpy matplotlib seaborn scipy
 
+---
+
+## 📌 Key Takeaways
+
+This dashboard offers a compact, visual, and comparative overview of **EU economic health**, making it useful for:
+- Academic research
+- Policy insights
+- Business strategy analysis
+
+---
+
+## ✍️ Author
+
+**Isaac Kwame Essien Obeng**  
+Data & AI Professional | MSc Information Systems  
+[GitHub Profile](https://github.com/ikeobeng)
