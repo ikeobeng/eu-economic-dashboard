@@ -1,5 +1,7 @@
 # EU Economic Dashboard
 
+🚀 **Live Demo**: [View the Live Streamlit App](https://eu-economic-dashboard.streamlit.app)
+
 Streamlit dashboard using data from **World Bank Group - World Development Indicators**.
 
 ---
